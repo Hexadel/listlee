@@ -2,7 +2,7 @@
 	"name": "listlee",
 	"version": "0.0.1",
 	"description": "ListLee App",
-	"main": "./dist/main.js",
+	"main": "./docs/main.js",
 	"author": {
 		"name": "Wessels de Wet",
 		"url": "http://hexadel.co.za"
